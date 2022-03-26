@@ -2,7 +2,8 @@
   "name": "abstract/simplenpc",
   "minimum-stability": "dev",
   "license": "Apache-2.0",
-
+  "version": "1",
+  
   "require": {
     "php": "^8.0",
     "ext-yaml": "*",
